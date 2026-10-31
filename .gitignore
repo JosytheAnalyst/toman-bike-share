@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Excel temp
+~$*.xlsx
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large DB if needed (optional - currently included)
+# *.db
